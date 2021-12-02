@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samikhawja"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=samikhawja"/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhawja"/>
