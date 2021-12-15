@@ -1,4 +1,4 @@
-### Sami says, Hey There 👋
+### Sami says, hey there 👋
 <a>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=samikhawja"/>
 </a>
